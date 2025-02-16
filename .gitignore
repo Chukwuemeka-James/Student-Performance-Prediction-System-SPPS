@@ -172,3 +172,5 @@ cython_debug/
 venv-guide.txt
 Pipfile
 Pipfile.lock
+artifacts/*
+catboost_info
